@@ -157,3 +157,9 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+document.querySelector("#Project").addEventListener('click',()=>{
+  // setInterval(() => {
+    alert("Working On Project Deployment Currently Stored At Locally","Sorry For Inconvineance");
+  // }, 10);
+})
