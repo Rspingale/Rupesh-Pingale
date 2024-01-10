@@ -156,6 +156,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
     }
 
   });
+  
 }
 
 document.querySelector("#Project").addEventListener('click',()=>{
